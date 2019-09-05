@@ -1,1 +1,3 @@
-# bilibili-static
+# 只是静态的实现了B站的首页
+
+
